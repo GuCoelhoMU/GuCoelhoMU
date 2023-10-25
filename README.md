@@ -4,6 +4,9 @@
 - ☪ I’m currently learning C# | Aprendendo C#
 - 👾 Currently working as an intern in system developmant | Atualmente sou estagiário em desenvolvimento de sistemas
 
+</br>
+##
+
 <div>
   <a href="https://github.com/GuCoelhoMU">
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GuCoelhoMU&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=prs,issues"/>
