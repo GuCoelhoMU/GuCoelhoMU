@@ -5,13 +5,15 @@
 - 👾 Currently working as an intern in system developmant | Atualmente sou estagiário em desenvolvimento de sistemas
 
 </br>
-##
+
 
 <div>
   <a href="https://github.com/GuCoelhoMU">
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GuCoelhoMU&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=prs,issues"/>
  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuCoelhoMU&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+
+</br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Coelho-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
