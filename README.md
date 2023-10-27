@@ -1,4 +1,4 @@
-### ❄ Welcome to my profile!! | Bem vindo ao meu perfil!
+### 😁 Welcome to my profile!! | Bem vindo ao meu perfil!
 
 - 🎶 He/Him | Ele/Dele
 - ☪ I’m currently learning C# | Aprendendo C#
