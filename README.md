@@ -1,7 +1,7 @@
 ### 😁 Welcome to my profile!! | Bem vindo ao meu perfil!
 
 - 🎶 He/Him | Ele/Dele
-- ☪ I’m currently learning C# and VueJS| Aprendendo C# e VueJS
+- ☪ I’m currently learning C# and VueJS | Aprendendo C# e VueJS
 - 👾 Currently working as an intern in system developmant | Atualmente sou estagiário em desenvolvimento de sistemas
 
 </br>
